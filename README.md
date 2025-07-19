@@ -1,3 +1,8 @@
+<img width="439" height="675" alt="image" src="https://github.com/user-attachments/assets/68e68047-ec58-487a-beaa-735c6b57cdcb" />
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
