@@ -1,0 +1,12 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+target/
+bin/
+.gradle/
+build/
+*.iml
+*.idea/
+*.DS_Store
